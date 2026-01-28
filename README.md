@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pp4mnkt3am
+- 👋 Hi, I’m @pp4mnk
 - 👀 I’m interested in Education  and Linux
 - 🌱 I’m currently learning .... bufff....
 - 💞️ I’m looking to collaborate on translations 
