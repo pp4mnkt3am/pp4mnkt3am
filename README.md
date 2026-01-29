@@ -154,19 +154,3 @@ Built with ❤️ for classrooms, learners, and curious minds
 
 
 
-If you want, next I can:
-
-
-🔹 Make a shorter / punchier version
-
-
-🔹 Add badges & stats
-
-
-🔹 Create a teacher-focused variant
-
-
-🔹 Adapt it for a portfolio site or GitHub Pages
-
-
-Just tell me the vibe 😄
